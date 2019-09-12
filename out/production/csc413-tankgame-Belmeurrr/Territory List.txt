@@ -1,0 +1,71 @@
+#############
+NORTH AMERICA
+#############
+
+Alaska
+Alberta (Western Canada)
+Central America
+Eastern United States
+Greenland
+Northwest Territory
+Ontario (Central Canada)
+Quebec (Eastern Canada)
+Western United States
+
+#############
+SOUTH AMERICA
+#############
+
+Argentina
+Brazil
+Peru
+Venezuela
+
+#############
+EUROPE
+#############
+
+Great Britain (Great Britain & Ireland)
+Iceland
+Northern Europe
+Scandinavia
+Southern Europe
+Ukraine (Eastern Europe, Russia)
+Western Europe
+
+#############
+AFRICA
+#############
+
+Congo (Central Africa)
+East Africa[note 1]
+Egypt
+Madagascar
+North Africa
+South Africa
+
+#############
+ASIA
+#############
+
+Afghanistan[note 2]
+China
+India (Hindustan)
+Irkutsk
+Japan
+Kamchatka
+Middle East[note 1]
+Mongolia
+Siam (Southeast Asia)
+Siberia
+Ural
+Yakutsk
+
+#############
+AUSTRALIA
+#############
+
+Eastern Australia
+Indonesia
+New Guinea
+Western Australia

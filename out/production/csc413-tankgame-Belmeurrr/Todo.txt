@@ -1,0 +1,28 @@
+color checker //make sure its a valid color
+CHANGE FILES TO BUFFEREDREADERS
+talk to prof about this
+
+Projectr Structure => Artifacts => JAR => Module => launcher => /LEAVE CLASS PATH EMPTY/ OK => HAMMER next to config => Build Artifact
+
+ 
+Compuer AI
+
+	
+
+	initial phase woulld need a selectRandomTerritory function
+	random obj (territoryArrayList.size)
+	setOwner as computerPlayer
+
+	intital army placement
+
+	roundly army placement
+
+	whichTerritoryDoesComputerWantToBattle
+		what determines the territory to battle?
+		computer wants to complete a continent
+		computer wants to prevent a another player from completeing a continent
+		
+
+
+
+	whichTerritoryDoesComputerWantToFortify

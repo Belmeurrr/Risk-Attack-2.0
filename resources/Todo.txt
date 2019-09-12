@@ -1,0 +1,39 @@
+Projectr Structure => Artifacts => JAR => Module => launcher => /LEAVE CLASS PATH EMPTY/ OK => HAMMER next to config => Build Artifact
+
+Cards
+    Wild Cards
+
+	initial phase woulld need a selectRandomTerritory function
+
+Computer AI
+
+	setOwner as computerPlayer
+
+	whichTerritoryDoesComputerWantToBattle
+		what determines the territory to battle?
+		computer wants to complete a continent
+		computer wants to prevent a another player from completeing a continent
+
+
+	whichTerritoryDoesComputerWantToFortify
+
+Redo Setup Page
+
+Settings Page
+
+Multiplayer
+
+UI Improvements
+
+Music/sound effects
+
+    button sounds
+
+    https://www.youtube.com/watch?v=0Ta-ki-V5o0
+        Altaslayer
+
+
+Animations
+
+GameLog
+    set Editable false

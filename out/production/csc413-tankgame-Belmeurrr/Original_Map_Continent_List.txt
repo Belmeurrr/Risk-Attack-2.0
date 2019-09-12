@@ -1,0 +1,6 @@
+Africa
+Asia
+Australia
+Europe
+NorthAmerica
+SouthAmerica
